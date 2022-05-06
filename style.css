@@ -1,0 +1,47 @@
+  
+body { 
+    background-image: url(https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?cs=srgb&dl=pexels-pixabay-220201.jpg&fm=jpg);
+  }
+
+  h2 {
+      color: white;
+  }
+  h1{ 
+      color: white
+  }
+  p{
+      color: whitesmoke
+  }
+  ol{
+      color: whitesmoke;
+      font-family: Arial;
+  }
+  ul{
+      color: whitesmoke;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+  h1{
+      font-family: Arial;
+  }
+  h2{
+      font-family:'Times New Roman', Times, serif;
+  }
+  p{
+      font-family: Arial;
+      font-size: 20px;
+      text-decoration:solid;
+  }
+
+  .list{
+      color:white
+      ;
+  }
+  
+
+.image{
+    border-radius: 50%;
+}
+
+<style>
