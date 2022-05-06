@@ -1,4 +1,5 @@
-  
+
+
 body { 
     background-image: url(https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?cs=srgb&dl=pexels-pixabay-220201.jpg&fm=jpg);
   }
@@ -41,7 +42,5 @@ body {
   
 
 .image{
-    border-radius: 50%;
-}
-
-<style>
+    border-radius: 50%;} 
+    <style>
